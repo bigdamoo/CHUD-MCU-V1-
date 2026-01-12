@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SWDRESET Pin=U1-34
+Removed Pin From Net: NetName=JTRST Pin=U1-90
+Added Pin To Net: NetName=SWDRESET Pin=U1-90
+Added Pin To Net: NetName=JTRST Pin=U1-91

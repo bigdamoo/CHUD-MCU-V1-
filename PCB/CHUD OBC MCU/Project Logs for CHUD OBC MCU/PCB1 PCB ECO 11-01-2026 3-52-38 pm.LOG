@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=OVP Pin=U1-7
+Removed Pin From Net: NetName=FIRE Pin=U1-22
+Removed Pin From Net: NetName=ARM Pin=U1-23
+Removed Pin From Net: NetName=OCP Pin=U1-65
+Removed Pin From Net: NetName=ERR Pin=U1-66
+Added Pin To Net: NetName=ERR Pin=U1-1
+Added Pin To Net: NetName=OVP Pin=U1-2
+Added Pin To Net: NetName=OCP Pin=U1-3
+Added Pin To Net: NetName=ARM Pin=U1-4
+Added Pin To Net: NetName=FIRE Pin=U1-5

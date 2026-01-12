@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=CANH Pin=R2-1
+Change Component Comment : Designator=R2 Old Comment=120 New Comment=
+Added Component: Designator=C15(CAPC2013X145X48NL20T23)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vitramon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "VJ0805Y682KXAMT"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESC2012X65N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "RN73C2A1K0BTD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=CANH Pin=R4-1
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=R2-1
+Added Pin To Net: NetName=NetC15_2 Pin=R4-2
+Added Net: Name=NetC15_2
+Added Member To Class: ClassName=MCU_SCHEM_REV1 Member=Component C15 4.7n
+Added Member To Class: ClassName=MCU_SCHEM_REV1 Member=Component R4

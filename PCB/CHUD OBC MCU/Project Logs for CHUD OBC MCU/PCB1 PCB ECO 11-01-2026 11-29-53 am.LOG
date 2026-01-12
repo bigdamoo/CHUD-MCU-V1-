@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=CS0 Pin=J1-07
+Removed Pin From Net: NetName=CS0 Pin=J1-08
+Removed Pin From Net: NetName=CS0 Pin=J2-03
+Removed Pin From Net: NetName=CS0 Pin=J2-04
+Removed Pin From Net: NetName=CS0 Pin=J2-05
+Removed Pin From Net: NetName=CS0 Pin=J2-06
+Removed Pin From Net: NetName=CS0 Pin=J2-07
+Removed Pin From Net: NetName=CS0 Pin=J2-08
+Removed Pin From Net: NetName=CS0 Pin=J2-09
+Removed Pin From Net: NetName=CS0 Pin=J2-10
+Removed Pin From Net: NetName=CS0 Pin=U1-55
+Removed Pin From Net: NetName=CS0 Pin=U1-57
+Removed Pin From Net: NetName=CS0 Pin=U1-58
+Removed Pin From Net: NetName=CS0 Pin=U1-59
+Removed Pin From Net: NetName=CS0 Pin=U1-81
+Removed Pin From Net: NetName=CS0 Pin=U1-82
+Removed Pin From Net: NetName=CS0 Pin=U1-83
+Removed Pin From Net: NetName=CS0 Pin=U1-84
+Removed Pin From Net: NetName=CS0 Pin=U1-85
+Removed Pin From Net: NetName=CS0 Pin=U1-86
+Removed Pin From Net: NetName=CS0 Pin=U1-87
+Removed Pin From Net: NetName=CS0 Pin=U1-88
+Removed Pin From Net: NetName=CS0 Pin=U2-8
+Added Pin To Net: NetName=CS1 Pin=J1-08
+Added Pin To Net: NetName=CS1 Pin=U1-57
+Added Net: Name=CS1
+Added Pin To Net: NetName=CS2 Pin=J1-07
+Added Pin To Net: NetName=CS2 Pin=U1-58
+Added Net: Name=CS2
+Added Pin To Net: NetName=GPIO0 Pin=J2-10
+Added Pin To Net: NetName=GPIO0 Pin=U1-82
+Added Net: Name=GPIO0
+Added Pin To Net: NetName=GPIO1 Pin=J2-09
+Added Pin To Net: NetName=GPIO1 Pin=U1-83
+Added Net: Name=GPIO1
+Added Pin To Net: NetName=GPIO2 Pin=J2-08
+Added Pin To Net: NetName=GPIO2 Pin=U1-84
+Added Net: Name=GPIO2
+Added Pin To Net: NetName=GPIO3 Pin=J2-07
+Added Pin To Net: NetName=GPIO3 Pin=U1-85
+Added Net: Name=GPIO3
+Added Pin To Net: NetName=GPIO4 Pin=J2-06
+Added Pin To Net: NetName=GPIO4 Pin=U1-86
+Added Net: Name=GPIO4
+Added Pin To Net: NetName=GPIO5 Pin=J2-05
+Added Pin To Net: NetName=GPIO5 Pin=U1-87
+Added Net: Name=GPIO5
+Added Pin To Net: NetName=GPIO6 Pin=J2-04
+Added Pin To Net: NetName=GPIO6 Pin=U1-88
+Added Net: Name=GPIO6
+Added Pin To Net: NetName=GPIO7 Pin=J2-03
+Added Pin To Net: NetName=GPIO7 Pin=U1-55
+Added Net: Name=GPIO7
+Added Pin To Net: NetName=T_SEL Pin=U1-59
+Added Pin To Net: NetName=T_SEL Pin=U2-8
+Added Net: Name=T_SEL
+Added Rule: Name=Schematic Supply Nets_33
+Added Rule: Name=Schematic Supply Nets_34
+Added Rule: Name=Schematic Supply Nets_35
+Added Rule: Name=Schematic Supply Nets_36
+Added Rule: Name=Schematic Supply Nets_37
+Added Rule: Name=Schematic Supply Nets_38
+Added Rule: Name=Schematic Supply Nets_39
+Added Rule: Name=Schematic Supply Nets_40
+Added Rule: Name=Schematic Supply Nets_41
+Added Rule: Name=Schematic Supply Nets_42
+Added Rule: Name=Schematic Supply Nets_43

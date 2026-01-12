@@ -1,0 +1,18 @@
+Added Component: Designator=J2(SAMTEC_SSW-105-02-G-D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec Inc."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SSW-105-02-G-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USART1_RX Pin=J2-01
+Added Pin To Net: NetName=USART1_TX Pin=J2-02
+Added Pin To Net: NetName=CS0 Pin=J2-03
+Added Pin To Net: NetName=CS0 Pin=J2-04
+Added Pin To Net: NetName=CS0 Pin=J2-05
+Added Pin To Net: NetName=CS0 Pin=J2-06
+Added Pin To Net: NetName=CS0 Pin=J2-07
+Added Pin To Net: NetName=CS0 Pin=J2-08
+Added Pin To Net: NetName=CS0 Pin=J2-09
+Added Pin To Net: NetName=CS0 Pin=J2-10
+Added Member To Class: ClassName=MCU_SCHEM_REV1 Member=Component J2 SSW-105-02-G-D
